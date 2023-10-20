@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654607453553",
+    "project_id": "dailytaskmanager-98cd5",
+    "storage_bucket": "dailytaskmanager-98cd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654607453553:android:34db02fa7a3bdb14ec7ad0",
+        "android_client_info": {
+          "package_name": "com.example.dailytaskmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654607453553-to3oieakom6hvt6jmvkobil7t2bcuq9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaLxQ0d4YlfP5TWcVrLC0usCYuuKHyMY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654607453553-to3oieakom6hvt6jmvkobil7t2bcuq9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
